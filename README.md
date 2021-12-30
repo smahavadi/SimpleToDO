@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://user-images.githubusercontent.com/61363761/147780902-1c82bfc8-390c-4055-8abe-c55774ccc3a5.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -37,7 +35,7 @@ create a simple app that is relevant to daily life. I had a challenge when the v
 laptop screen, but once I figured out what the tutorial was trying to accomplish I was able to replicate it to make my app work properly. This
 project allowed me to get a basic understanding of a new IDE, a new language (Kotlin) that is similar to ones I have worked with previously (Java),
 and I was able to see correlations with the steps and process of app development between iOS and Andriod, given my prior experience with the
-iOS Development course I tookwith Codepath.
+iOS Development course I took with Codepath.
 
 ## License
 
